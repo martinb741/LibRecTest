@@ -3,7 +3,7 @@ package recommender;
 import librec.main.LibRec;
 import librec.util.FileIO;
 
-public class RecommenderTest {
+public class LibRecTest {
 
 	public static void main(String[] args) {
 		
